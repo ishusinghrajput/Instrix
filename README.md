@@ -54,4 +54,4 @@ It follows some celebrities and then unfollows them which leads to increase in y
 With Instagram's Current Algorithm it isn't much serviceable but can try it.
 #### Made with ❤️ by Ishu Singh Rajput .
 
-<a href=https://instagram.com/ishuxrajput><img src= https://pin.it/3YypSWc /> <a/>
+<a href=https://instagram.com/ishuxrajput> Instagram </a>
