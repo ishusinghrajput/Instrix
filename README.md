@@ -1,26 +1,49 @@
 # Instrix
-Instagram Hacking Tools
+Instagram Hacking Tool
 
 Instrix is a Instagram Tool for doing Cool Stuffs on Instagram.
-Instrix asks for your username and password but it doesn't saves any of your information.
+- Instrix asks for your username and password but it doesn't saves any of your information.
 
-Setup Instrix on Linux:
+## Installing Instrix on Linux:
 
+```
 git clone https://github.com/ishusinghrajput/Instrix.git
+```
+```
 cd Instrix
+```
+```
 pip install -r requirements.txt
+```
+```
 cd Linux
+```
+```
 chmod 755 geckodriver
+```
+```
 sudo cp geckodriver /usr/bin
+```
+```
 python3 Infinity_messenger.py (Or other bots you wanna use).
+```
 
-Setup Instrix on Windows:
+## Installing Instrix on Windows:
 
-Download Instrix Folder
+- Download Instrix Folder
+```
 cd Instrix
+```
+```
 pip install -r requirements.txt
+```
+```
 cd Windows
+```
+```
 python3 Infinity_messenger.py (Or other bots you wanna use).
+```
 
-
+## What Infinity_messenger.py does:
+Infinity Messenger is used to
 Made with ❤️ by Ishu Singh Rajput .
