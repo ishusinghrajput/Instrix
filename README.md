@@ -3,7 +3,8 @@ Instagram Hacking Tool
 
 Instrix is a Instagram Tool for doing Cool Stuffs on Instagram.
 - Instrix asks for your username and password but it doesn't saves any of your information.
-![cheese](https://littlerascals.ml/mainimage.jpg)
+
+![cheese](https://github.com/ishusinghrajput/LittleRascals/blob/master/instrix.jpg)
 
 ## Installing Instrix on Linux:
 
@@ -55,4 +56,6 @@ It follows some celebrities and then unfollows them which leads to increase in y
 With Instagram's Current Algorithm it isn't much serviceable but can try it.
 #### Made with ❤️ by Ishu Singh Rajput .
 
-<a href=https://instagram.com/ishuxrajput><img src= https://photos.app.goo.gl/sfRH8WfrTYD3wkpY7.jpg /></a>
+<a href=https://instagram.com/ishuxrajput><img src= https://github.com/ishusinghrajput/LittleRascals/blob/master/instagramlogopng.png width=40px/></a>
+
+<a href=https://twitter.com/ishuxrajput><img src= https://github.com/ishusinghrajput/LittleRascals/blob/master/twitter.jpeg width=40px margin=10px/></a>
