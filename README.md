@@ -1,5 +1,4 @@
 # Instrix
-Instagram Hacking Tool
 
 Instrix is a Instagram Tool for doing Cool Stuffs on Instagram.
 - Instrix asks for your username and password but it doesn't saves any of your information.
