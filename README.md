@@ -45,7 +45,13 @@ python3 Infinity_messenger.py (Or other bots you wanna use).
 ```
 
 ## What Infinity_messenger.py does:
-Infinity Messenger is used to
-Made with ❤️ by Ishu Singh Rajput .
+Infinity Messenger is used to send bulk messages to 
+other Instagram Users .
+- It first follows the target user and then send them messages.
+
+## What Followersbooster.py does:
+It follows some celebrities and then unfollows them which leads to increase in your followers.
+With Instagram's Current Algorithm it isn't much serviceable but can try it.
+#### Made with ❤️ by Ishu Singh Rajput .
 
 <a href=https://instagram.com/ishuxrajput><img src= https://pin.it/3YypSWc /> <a/>
